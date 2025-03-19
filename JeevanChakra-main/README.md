@@ -8,4 +8,4 @@ Our project aims to provide a comprehensive digital healthcare ecosystem with fe
 ✅ Mental Health Assessment & Workshops – Online/offline participation to promote mental wellness.
 ✅ Stress-Relief Games – Gamified approach to relaxation and self-care.
 
-A huge shoutout to my amazing teammates Akshat Shrivastava, Aarushi Chaddha, Riya Mehta, Pranav Chaturvedi, and Aashi Raghuvanshi for their dedication and teamwork! 💪 This journey was an incredible learning experience, and we are excited to take Jeevan Chakra further to make a real-world impact.
+A huge shoutout to my amazing teammates Akshat Shrivastava, Yashveer Rai, Riya Mehta, Pranav Chaturvedi, and Aashi Raghuvanshi for their dedication and teamwork! 💪 This journey was an incredible learning experience, and we are excited to take Jeevan Chakra further to make a real-world impact.
